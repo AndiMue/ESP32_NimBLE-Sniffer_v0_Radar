@@ -1,7 +1,7 @@
 # ESP32_NimBLE-Sniffer_v0_Radar
 Sniffs Bluetooth devices in your environment and displays them via serial communication
 
-##Arduino IDE Setup
+##Arduino IDE Setup/n
 ![Arduino-Setup](images/Arduino-IDE1819-Settings.png)
 
 ##ESP32
